@@ -27,7 +27,7 @@ and done!
 
 # Be sure to change these!
 
-also add your Discord Account ID in `Commands > Public > AutoMod` commands [ **ALL OF THE THEM** ]
+Add your Discord Account ID in `Commands > Public > AutoMod` commands [ **ALL OF THE THEM** ]
 
 ```js
                 creatorId: `youraccountid`, // Replace it with your Discord Account ID
@@ -45,8 +45,11 @@ if you don't change these it will not work!
 <br>
 
 `1.` Use `/automod-bad-words` command `6` times.
+<br>
 `2.` Use `/automod-flagged-words` command `1` time.
+<br>
 `3.` Use `/automod-spam-mentions` command `1` time.
+<br>
 `4.` Use `/automod-spam-messages` command `1` time. 
 
 in `12` servers, basically `9` commands ran in each server = `108` and thats the requirement for the `Uses AutoMod` badge..
