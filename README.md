@@ -1,10 +1,10 @@
 # Discord AutoMod Bot
 
-## 🆘 Help 🆘
+# 🆘 Help 🆘
 
 **Support:** [discord.gg/black-h](https://discord.gg/black-h)
 
-## Installation
+# Installation
 
 <details>
 <summary>Windows Installation</summary>
@@ -25,7 +25,7 @@
 and done!
 </details>
 
-## Be sure to change these!
+# Be sure to change these!
 
 also add your Discord Account ID in `Commands > Public > AutoMod` commands [ **ALL OF THE THEM** ]
 
