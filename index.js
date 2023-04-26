@@ -7,7 +7,6 @@ const client = new Discord.Client({
 
 
 const { loadEvents } = require("./handlers/eventhandler");
-client.config = require("./config.json");
 client.events = new Collection();
 client.commands = new Collection();
 
