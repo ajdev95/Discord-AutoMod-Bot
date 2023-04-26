@@ -38,8 +38,6 @@ Also be sure to change line `16` in `index.js` file
 
 if you don't change these it will not work!
 
-## ⚠ ⚠ WE DON'T RECOMMEND YOU USING FAKE SERVERS, use it at your on risk. ⚠ ⚠
-
 # How to get the `Uses AutoMod` badge on your Discord bot?
 <br>
 <details>
@@ -53,3 +51,5 @@ if you don't change these it will not work!
 
 in `12` servers, basically `9` commands ran in each server = `108` and thats the requirement for the `Uses AutoMod` badge..
 </details>
+
+## ⚠ ⚠ WE DON'T RECOMMEND YOU USING FAKE SERVERS, use it at your on risk. ⚠ ⚠
