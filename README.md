@@ -42,8 +42,6 @@ if you don't change these it will not work!
 
 # How to get the `Uses AutoMod` badge on your Discord bot?
 <br>
-## ⚠️⚠️ WE DON'T RECOMMEND YOU USING FAKE SERVERS, use it at your on risk. ⚠️⚠️
-
 <details>
 <summary>To continue click here</summary>
 <br>
@@ -55,4 +53,4 @@ if you don't change these it will not work!
 
 in `12` servers, basically `9` commands ran in each server = `108` and thats the requirement for the `Uses AutoMod` badge..
 </details>
-<br>
+## ⚠️⚠️ WE DON'T RECOMMEND YOU USING FAKE SERVERS, use it at your on risk. ⚠️⚠️
