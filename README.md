@@ -37,3 +37,20 @@ also add your Discord Account ID in `Commands > Public > AutoMod` commands [ **A
 Also be sure to change line `16` in `index.js` file
 
 if you don't change these it will not work!
+
+
+# How to get the `Uses AutoMod` badge on your Discord bot?
+
+<details>
+<summary>To continue click here</summary>
+<br>
+
+1. Use `/automod-bad-words` command `6` times 
+2. Use `/automod-flagged-words` command `1` time.
+3. Use `/automod-spam-mentions` command `1` time.
+4. Use `/automod-spam-messages` command `1` time. 
+
+in `12` servers, basically `9` commands ran in each server = `108` and thats the requirement for the `Uses AutoMod` badge..
+</details>
+
+## ⚠️⚠️ WE DON'T RECOMMEND YOU USING FAKE SERVERS, use it at your on risk. ⚠️⚠️
