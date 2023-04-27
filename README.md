@@ -34,7 +34,7 @@ Add your Discord Account ID in `Commands > Public > AutoMod` commands [ **ALL OF
 ```
 
 
-Also be sure to change line `16` in `index.js` file
+Also be sure to change line `15` in `index.js` file
 
 if you don't change these it will not work!
 
