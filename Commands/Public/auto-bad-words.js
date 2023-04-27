@@ -4,7 +4,7 @@ const { SlashCommandBuilder, EmbedBuilder } = require ('@discordjs/builders');
 
 module.exports = {
         data: new SlashCommandBuilder()
-        .setName('automode-bad-words')
+        .setName('automod-bad-words')
         .setDescription('Creates an automated rule for bad words')
         .addStringOption(option => option.setName('word').setDescription('Add the word to be removed from the automod').setRequired(true)),
 
@@ -17,7 +17,7 @@ module.exports = {
         const rule = await guild.autoModerationRules.create(
             {
                 name: `Prevent bad word by ${client.user.username}`,
-                creatorId: `youraccountid`,
+                creatorId: `487229623810129922`,
                 enabled: true,
                 eventType: 1,
                 triggerType: 1,
