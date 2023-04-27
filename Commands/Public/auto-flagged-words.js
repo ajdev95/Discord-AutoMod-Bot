@@ -3,7 +3,7 @@ const { PermissionsBitField } = require('discord.js');
 
 module.exports = {
         data: new SlashCommandBuilder()
-        .setName('automode-flagged-words')
+        .setName('automod-flagged-words')
         .setDescription('Creates an automod rule for flagged words'),
 
 
@@ -14,7 +14,7 @@ const {  guild} = interaction ;
         const rule = await guild.autoModerationRules.create(
             {
                 name: `Prevent profanity and sexual content, slurs by ${client.user.username}`,
-                creatorId: `youraccountid`,
+                creatorId: `487229623810129922`,
                 enabled: true,
                 eventType: 1,
                 triggerType: 4,
