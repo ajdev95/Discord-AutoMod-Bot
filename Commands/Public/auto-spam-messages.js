@@ -3,7 +3,7 @@ const { PermissionsBitField } = require('discord.js');
 
 module.exports = {
         data: new SlashCommandBuilder()
-        .setName('automode-spam-messages')
+        .setName('automod-spam-messages')
         .setDescription('Creates an automated rule for spam messages'),
 
 
@@ -15,7 +15,7 @@ async execute (interaction , client) {
         const rule = await guild.autoModerationRules.create(
             {
                 name: `Prevent Spam messages by ${client.user.username}`,
-                creatorId: `youraccountid`,
+                creatorId: `487229623810129922`,
                 enabled: true,
                 eventType: 1,
                 triggerType: 3,
