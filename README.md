@@ -30,7 +30,7 @@ and done!
 Add your Discord Account ID in `Commands > Public > AutoMod` commands [ **ALL OF THE THEM** ]
 
 ```js
-                creatorId: `youraccountid`, // Replace it with your Discord Account ID
+        creatorId: `youraccountid`, // Replace it with your Discord Account ID
 ```
 
 
