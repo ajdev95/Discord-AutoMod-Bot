@@ -53,7 +53,7 @@ if you don't change these it will not work!
 `4.` Use `/automod-spam-messages` command `1` time. 
 <br>
 in `12` servers, basically `9` commands ran in each server = `108` and thats the requirement for the `Uses AutoMod` badge..
-<br>
+
 **IT TAKES 12-16 HOURS TO SHOW THE BADGE IF YOU DID THE REQUIREMENTS ^ CORRECTLY**
 [Click Here For Example](https://imgur.com/a/4XUoiv2)
 </details>
