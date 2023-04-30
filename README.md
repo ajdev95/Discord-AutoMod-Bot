@@ -1,3 +1,6 @@
+
+<github-button href="https://github.com/deadlockjs/Discord-AutoMod-Bot" data-color-scheme="no-preference: dark_high_contrast; light: dark_dimmed; dark: dark_dimmed;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star deadlockjs/Discord-AutoMod-Bot on GitHub">Star</github-button>
+
 # Discord AutoMod Bot
 
 # 🆘 Help 🆘
