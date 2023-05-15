@@ -1,6 +1,11 @@
 
 <github-button href="https://github.com/deadlockjs/Discord-AutoMod-Bot" data-color-scheme="no-preference: dark_high_contrast; light: dark_dimmed; dark: dark_dimmed;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star deadlockjs/Discord-AutoMod-Bot on GitHub">Star</github-button>
 
+
+# ⭐ Update 1.0.1 Includes:
+
+Added the ability to make the bot sends the alert message in **Commands/Public/`automod-bad-words.js`** when someone say a bad word, called by: "Sends Alert"
+
 # Discord AutoMod Bot
 
 # 🆘 Help 🆘
