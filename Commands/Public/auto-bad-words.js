@@ -4,7 +4,7 @@ const { SlashCommandBuilder, EmbedBuilder } = require ('@discordjs/builders');
 
 module.exports = {
         data: new SlashCommandBuilder()
-        .setName('automode-bad-words')
+        .setName('automod-bad-words')
         .setDescription('Creates an automated rule for bad words')
         .addStringOption(option => option.setName('word').setDescription('Add the word to be removed from the automod').setRequired(true)),
 
