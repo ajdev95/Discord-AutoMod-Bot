@@ -8,10 +8,6 @@ Added the ability to make the bot sends the alert message in **Commands/Public/`
 
 # Discord AutoMod Bot
 
-# 🆘 Help 🆘
-
-**Support:** [discord.gg/black-h](https://discord.gg/black-h)
-
 # Installation
 
 <details>
