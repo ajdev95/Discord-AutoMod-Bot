@@ -12,4 +12,4 @@ client.commands = new Collection();
 
 loadEvents(client);
 
-client.login("yourbottoken");
+client.login("MTA3ODk5MTk0OTE5NDg2Njc3OQ.G0j1aF.hy49t8-F_F0itzGZd3SnnzDyR5ZHTOTPuNZ6_w");
